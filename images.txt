@@ -1,1 +1,1 @@
-nginx:latest
+haroldli/xiaoya-tvbox:latest
