@@ -4,5 +4,5 @@ xhofe/alist
 mysql:5.7
 nginx:latest
 redis:latest
-metacubex/clash-meta:latest
-vodspider:latest
+metacubex/mihomo:latest
+sifan1/vodspider:latest
