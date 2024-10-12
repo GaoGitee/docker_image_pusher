@@ -5,4 +5,4 @@ mysql:5.7
 nginx:latest
 redis:latest
 metacubex/clash-meta:latest
-vodspider:1.0
+vodspider:latest
