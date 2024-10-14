@@ -6,3 +6,4 @@ haroldli/xiaoya-tvbox
 # redis:latest
 # metacubex/mihomo:latest
 # sifan1/vodspider:latest
+metacubex/clash-meta:latest
